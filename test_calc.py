@@ -7,6 +7,11 @@ class TestCalc:
     def setup_class(self):
 
         self.cal = Calculator()
+        print("只执行一次计算开始")
+
+    def teardown_class(self):
+        print("只执行一次计算结束")
+
 
     @pytest.mark.parametrize("a,b,expect",[(1,2,3),(-2,-3,-5),(100,200,300)]
                              ,ids=["num1","num2","num3"])
