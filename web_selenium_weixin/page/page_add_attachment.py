@@ -10,3 +10,4 @@ from Huogewozizuoye.web_selenium_weixin.base.get_logger import GetLogger
 class Page_Add_attacchment(Base):
 
 
+        pass
