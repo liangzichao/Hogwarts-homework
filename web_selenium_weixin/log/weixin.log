@@ -1,0 +1,199 @@
+2020-12-21 10:22:25,730 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 10:22:25,732 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 10:22:56,171 ERROR [root] [test_add_Member.py (setup_class:44] - 错误：Message: 
+
+2020-12-21 10:22:56,172 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
+2020-12-21 10:22:56,505 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:23:26,812 ERROR [root] [test_add_Member.py (test_add_member:61] - 错误：Message: 
+
+2020-12-21 10:23:26,813 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
+2020-12-21 10:23:27,150 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:23:57,361 ERROR [root] [test_add_Member.py (test_add_member:61] - 错误：Message: 
+
+2020-12-21 10:23:57,363 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
+2020-12-21 10:23:57,811 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:24:28,160 ERROR [root] [test_add_Member.py (test_add_member:61] - 错误：Message: 
+
+2020-12-21 10:24:28,161 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
+2020-12-21 10:33:56,996 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 10:33:56,996 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 10:34:28,321 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 10:34:28,322 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 10:34:52,602 ERROR [root] [test_add_Member.py (setup_class:44] - 错误：Message: chrome not reachable
+  (Session info: chrome=87.0.4280.88)
+
+2020-12-21 10:34:52,602 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
+2020-12-21 10:49:00,155 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 10:49:00,155 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 10:49:01,242 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:49:01,800 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:49:01,907 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:49:01,920 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:49:02,042 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:49:02,058 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:49:02,278 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:49:02,302 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:49:02,629 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:49:02,655 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:49:02,866 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:49:02,886 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:49:03,082 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,098 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:49:03,224 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,237 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:49:03,376 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:49:03,376 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,539 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,575 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:49:03,742 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,771 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:49:03,950 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:49:03,965 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:49:04,246 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:49:04,256 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:49:04,486 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:49:04,502 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:49:04,730 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:49:04,742 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:49:04,978 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:49:04,988 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:49:05,131 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:49:05,145 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:49:05,303 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:49:05,303 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 10:49:05,443 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:49:05,452 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:49:05,631 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:49:12,112 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:49:12,325 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:49:12,336 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:49:12,528 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:49:12,538 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:49:12,784 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:49:12,797 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:49:12,991 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:49:12,999 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:49:13,169 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:49:13,181 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:49:13,298 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:49:13,307 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:49:13,416 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:49:13,416 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 10:56:29,064 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 10:56:29,064 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,068 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,125 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:56:31,260 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,280 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:56:31,462 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,484 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:56:31,690 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,714 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:56:31,968 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:56:31,990 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:56:32,177 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:56:32,207 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:56:32,440 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:56:32,464 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:56:32,630 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:56:32,648 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:56:32,800 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:56:32,800 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 10:56:32,989 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:56:33,021 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:56:33,208 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:56:33,221 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:56:33,384 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:56:33,402 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:56:33,590 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:56:33,606 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:56:33,848 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:56:33,886 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:56:34,084 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:56:34,097 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:56:34,356 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:56:34,365 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:56:34,533 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:56:34,548 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:56:34,727 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:56:34,728 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 10:56:34,856 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 10:56:34,865 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 10:56:35,017 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 10:56:35,033 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 10:56:35,203 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 10:56:35,218 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 10:56:35,563 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 10:56:35,576 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 10:56:35,865 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 10:56:35,878 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 10:56:36,146 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 10:56:36,162 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 10:56:36,471 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 10:56:36,482 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 10:56:36,717 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 10:56:36,728 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 10:56:36,964 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn js_btn_save']") 元素实行点击事件
+2020-12-21 10:56:36,965 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn js_btn_save']")元素，默认定位元素超时时间为30
+2020-12-21 11:04:32,089 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 11:04:32,090 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 11:04:33,193 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 11:04:33,737 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 11:04:33,823 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 11:04:33,838 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 11:04:33,974 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 11:04:33,998 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 11:04:34,117 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 11:04:34,131 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 11:04:34,262 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 11:04:34,274 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 11:04:34,487 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 11:04:34,543 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 11:04:34,873 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 11:04:34,897 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 11:04:35,084 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 11:04:35,105 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 11:04:35,377 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']") 元素实行点击事件
+2020-12-21 11:04:35,377 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']")元素，默认定位元素超时时间为30
+2020-12-21 11:04:35,634 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 11:04:35,723 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 11:04:36,028 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,045 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 11:04:36,166 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,180 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 11:04:36,328 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,341 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 11:04:36,512 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,522 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 11:04:36,683 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,704 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 11:04:36,865 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 11:04:36,879 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 11:04:37,028 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,038 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 11:04:37,131 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']") 元素实行点击事件
+2020-12-21 11:04:37,131 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']")元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,246 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'username')元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,255 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'username')元素实行清空操作
+2020-12-21 11:04:37,573 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_english_name')元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,583 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_english_name')元素实行清空操作
+2020-12-21 11:04:37,678 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_acctid')元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,693 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_acctid')元素实行清空操作
+2020-12-21 11:04:37,861 INFO [root] [base.py (base_find:29] - [base]:正在定位('name', 'mobile')元素，默认定位元素超时时间为30
+2020-12-21 11:04:37,877 INFO [root] [base.py (base_input:49] - [base]:正在对:('name', 'mobile')元素实行清空操作
+2020-12-21 11:04:38,061 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_telephone')元素，默认定位元素超时时间为30
+2020-12-21 11:04:38,072 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_telephone')元素实行清空操作
+2020-12-21 11:04:38,226 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_mail')元素，默认定位元素超时时间为30
+2020-12-21 11:04:38,237 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_mail')元素实行清空操作
+2020-12-21 11:04:38,398 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberEdit_address')元素，默认定位元素超时时间为30
+2020-12-21 11:04:38,405 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberEdit_address')元素实行清空操作
+2020-12-21 11:04:38,500 INFO [root] [base.py (base_find:29] - [base]:正在定位('id', 'memberAdd_title')元素，默认定位元素超时时间为30
+2020-12-21 11:04:38,508 INFO [root] [base.py (base_input:49] - [base]:正在对:('id', 'memberAdd_title')元素实行清空操作
+2020-12-21 11:04:38,587 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']") 元素实行点击事件
+2020-12-21 11:04:38,588 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//a[@class='qui_btn ww_btn ww_btn_Blue js_btn_continue']")元素，默认定位元素超时时间为30
+2020-12-21 23:34:11,328 INFO [root] [base.py (base_click:39] - [base]: 正在对:('xpath', "//span[@class='index_service_cnt_item_title']") 元素实行点击事件
+2020-12-21 23:34:11,344 INFO [root] [base.py (base_find:29] - [base]:正在定位('xpath', "//span[@class='index_service_cnt_item_title']")元素，默认定位元素超时时间为30
+2020-12-21 23:34:25,622 ERROR [root] [test_add_Member.py (setup_class:44] - 错误：Message: chrome not reachable
+  (Session info: chrome=87.0.4280.88)
+
+2020-12-21 23:34:25,623 INFO [root] [base.py (base_get_image:62] - [base]: 断言出错，调用截图
